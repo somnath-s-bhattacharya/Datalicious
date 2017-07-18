@@ -15,7 +15,7 @@ Notable Open Source Libraries used:
 
 1. SitePrism
 2. Capybara
-3. Poltergeist
+3. Poltergeist(https://github.com/teampoltergeist/poltergeist)
 
 
 To the run the FW locally, the system must be running on Ruby -v 2.3.1 with rvm and rails(4.2.7 and above) support. 
